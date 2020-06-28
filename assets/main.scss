@@ -1,0 +1,13 @@
+---
+# Nothing in here
+---
+
+$fa-font-path: "webfonts";
+@import "fontawesome/fontawesome.scss";
+@import "fontawesome/solid.scss";
+@import "fontawesome/brands.scss";
+
+.icon {
+    font-size: 48px;
+    padding:10px;
+}

@@ -1,0 +1,19 @@
+<div class="intro"
+		style="background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.6),rgba(0,0,0,0.1)),url({{ page.cover }})">
+<div class="intro-body">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-md-8">
+				<h1 class="brand-heading">{{ page.title | default: site.title }}</h1>
+				<p class="intro-text">
+					{{ page.description | default: site.description }}
+				</p>
+				{% include links.html %}
+				<!-- <a href="#pageid" class="btn btn-circle page-scroll">
+					<i class="fa fa-angle-double-down animated"></i>
+				</a> -->
+			</div>
+		</div>
+	</div>
+</div>
+</div>
