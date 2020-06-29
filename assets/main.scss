@@ -12,12 +12,8 @@ $fa-font-path: "webfonts";
     padding:10px;
 }
 
-.icon:hover{
-    font-size: 70px;
-}
-
 .fa-facebook:hover{
-    color: #3b5998;
+    color: #0084ff;
 }
 
 .fa-instagram:hover{
@@ -38,6 +34,9 @@ $fa-font-path: "webfonts";
 .icons {
     display: flex;
     justify-content: center;
-    height: 70px;
-    line-height: 48px;
+}
+
+.icon:hover{
+    background-image:radial-gradient(circle at 50% 50%,rgba(255, 255, 255, 0.1),rgba(255, 255, 255, 0.041));
+    border-radius: 200px;
 }
