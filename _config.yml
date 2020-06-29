@@ -42,6 +42,7 @@ instagram_username: pripessoaink
 # stackoverflow_username:
 telegram_username: pripessoaink
 
+
 # Build settings
 markdown: kramdown
 # theme:
@@ -57,7 +58,7 @@ collections:
         permalink: /:path
 
 sass:
-    sass_dir: assets/sass
+    sass_dir: /assets/sass
 
 # Exclude from processing.
 # The following items will not be processed, by default.
