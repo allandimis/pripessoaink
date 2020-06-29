@@ -16,7 +16,7 @@ Leonina, filha única e mimada. Eu tinha tudo pra ser metida e achada, mas na r
 Eu era tímida, não me encaixava nos grupos, tinha um total de 0 amigos de verdade, e o que me acompanhava durante minha solidão era papel e lápis de cor.⁣
 
 
-<img style="height: 360px; float:right; padding: 15px" src="/assets/img/genesis-1-A.jpg">
+<img style="height: 360px; float:right; padding: 15px" src="{{ "assets/img/genesis-1-A.jpg" | relative_url }}">
 ⁣
 Meus desenhos, mesmo sendo desenho de criança, sempre chamaram atenção, ouvi muitas vezes que eu estava em um nível artístico acima de outras crianças e sempre era eu que tinha que fazer a parte artística dos trabalhos em grupo.⁣
 ⁣
@@ -28,7 +28,7 @@ Deixei meus lápis e folhas pra ficar horas em frente à televisão, e fui es
 Fiz 18 anos, passei em História na UFSC, um curso que escolhi por pura rebeldia. Saí de Caxias do Sul e vim morar sozinha em Floripa, não conhecia ninguém e mais uma vez o patinho feio renasceu. É óbvio que não me encaixei na faculdade. O curso, apesar de interessante, não me permitia exercer meu lado criativo, e eu seguia com aquela sensação de que havia algo adormecido dentro de mim, mas juro que não sabia o que era. Eu só sofria, pois não tinha entendido meu lugar no mundo, e as vezes questionava o porquê da minha existência. No fundo eu me sentia uma inútil.⁣
 ⁣
 
-<img style="height: 300px; float:left; padding: 15px" src="/assets/img/genesis-1-B.jpg">
+<img style="height: 300px; float:left; padding: 15px" src="{{ "assets/img/genesis-1-B.jpg" | relative_url }}">
 
 Durante a faculdade inteira eu participei de estágios e vivia de uma forma muito simples pra conseguir guardar dinheiro pra viajar. Eu sentia que quando pegasse a estrada, eu ia me reencontrar.⁣
 ⁣
