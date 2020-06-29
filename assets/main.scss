@@ -11,3 +11,32 @@ $fa-font-path: "webfonts";
     font-size: 48px;
     padding:10px;
 }
+
+.fa-facebook:hover{
+    color: #0084ff;
+}
+
+.fa-instagram:hover{
+    color: #DD2A7B;
+}
+
+.fa-youtube:hover{
+    color: #c4302b;
+}
+
+.fa-telegram-plane:hover{
+    color: #0088CC;
+}
+
+.fa-shopping-basket:hover{
+    color: yellow;
+}
+.icons {
+    display: flex;
+    justify-content: center;
+}
+
+.icon:hover{
+    background-image:radial-gradient(circle at 50% 50%,rgba(255, 255, 255, 0.1),rgba(255, 255, 255, 0.041));
+    border-radius: 200px;
+}
