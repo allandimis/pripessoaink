@@ -41,3 +41,16 @@ $fa-font-path: "webfonts";
     display: flex;
     justify-content: center;
 }
+
+.post-index{
+    text-align: left;
+    font-size: 16px;
+    display: block;
+}
+
+.img-post{
+    height: 450px;
+    float:left;
+    padding: 15px;
+    border-radius: 40px;
+}

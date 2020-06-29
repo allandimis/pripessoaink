@@ -12,13 +12,18 @@ cover: /assets/img/cover.jpg
 
 ## ❈ Um pouco sobre a Pri ☽
 
-<div style="text-align: left; font-size: 19px">
-    <img style="height: 450px; float:left; padding: 15px" src="{{ "/assets/img/pri-1.jpg" | relative_url }}">
+<div class="post-index">
+    <img class="img-post" src="{{ "/assets/img/pri-1.jpg" | relative_url }}">
+    <div class="texto-post">
+    <p>
+
     Pra quem recém chegou aqui, ou pra quem me acompanha há tempos, mas não conhece essa pessoa aqui pra antes das tintas, muito prazer, eu sou a Pri Pessoa!⁣
     ⁣
     Leonina, filha única e mimada. Eu tinha tudo pra ser metida e achada, mas na real que a síndrome do patinho feio batia FORTE! ⁣
     ⁣
     Eu era tímida, não me encaixava nos grupos, tinha um total de 0 amigos de verdade, e o que me acompanhava durante minha solidão era papel e lápis de cor.⁣
+    </p>
+    </div>
 </div>
 
 
