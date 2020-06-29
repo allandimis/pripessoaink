@@ -32,3 +32,8 @@ Pra mim parecia algo surreal, absurdo, como que eu conseguiria ser tatuadora? Er
 ⁣
 
 Conversei com alguns tatuadores, me falaram que meu desenho não era desenho de tatuagem, que ia me frustrar e que não bastava saber desenhar para tatuar bem, pois as técnicas eram outras.⁣
+
+
+<a href="{% post_url 2020-06-28-la-loba-studio %}">
+    <button type="button" class="btn btn-dark">Continuar lendo...</button>
+</a>

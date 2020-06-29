@@ -33,3 +33,8 @@ Fiz 18 anos, passei em História na UFSC, um curso que escolhi por pura rebeldi
 Durante a faculdade inteira eu participei de estágios e vivia de uma forma muito simples pra conseguir guardar dinheiro pra viajar. Eu sentia que quando pegasse a estrada, eu ia me reencontrar.⁣
 ⁣
 Logo que me formei, 2014, fiz uma viagem pelo Conesul, e quando estava no primeiro destino, Punta del Diablo - Uruguay, tive um momento de introspecção, e desenhei uma mandala, os traços eram grosseiros, como se nota na foto, mas algo aí despertou em mim, como se lá no fundo minha alma gritasse que era isso!⁣
+
+
+<a href="{% post_url 2020-06-28-como-virei-tatuadora %}">
+    <button type="button" class="btn btn-dark">Continuar lendo...</button>
+</a>

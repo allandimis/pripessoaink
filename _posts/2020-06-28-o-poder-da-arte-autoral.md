@@ -44,4 +44,9 @@ Ainda vou ter que fazer uma série me aprofundando mais em cada viagem, porque f
 ⁣
 O foco aqui é mostrar que a arte autoral nos faz cruzar continentes, e que nenhum obstáculo parece tão grande quando você deixa a voz que grita dentro da ALMA sair!
 
+
+<a href="{{ site.baseurl }}/">
+    <button type="button" class="btn btn-red">Voltar</button>
+</a>
+
   [jhonny]: https://www.instagram.com/gojohnnyd/

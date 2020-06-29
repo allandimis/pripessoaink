@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Segue a saga
-description: 
+description:
 cover: /assets/img/genesis-4-cover.jpg
 date: 2020-06-28 20:00:04 -0300
 categories: relato
@@ -36,5 +36,10 @@ Descobri que arte autoral tem um valor inestimável.⁣ No meio de todo esse tur
 
 Ele começou a aprender a desenhar comigo, e me mostrou que eu também sei ensinar!⁣⁣
 Começamos a sonhar juntos e descobrimos um sonho em comum: sair pro mundão e viver de arte por onde for!⁣ Segue a saga...
+
+
+<a href="{% post_url 2020-06-28-o-poder-da-arte-autoral %}">
+    <button type="button" class="btn btn-dark">Continuar lendo...</button>
+</a>
 
   [thais]: https://www.instagram.com/thaisvalentetattoo/

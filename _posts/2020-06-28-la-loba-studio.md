@@ -33,3 +33,8 @@ Conta a história de uma criatura metade foca e metade mulher, que tem a sua pel
 ⁣
 
 Depois de horas lendo e chorando, eu entendi que era meu momento de recuperar minha pele de foca e voltar por lar!⁣ ⁣Minha vida é uma novela, gente!
+
+
+<a href="{% post_url 2020-06-28-segue-a-saga %}">
+    <button type="button" class="btn btn-dark">Continuar lendo...</button>
+</a>
