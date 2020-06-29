@@ -19,7 +19,7 @@ Eu também fazia muitas tatuagens pequenas e comerciais pra me virar. ⁣Muita g
 ⁣
 Fiz muitas minis tattoos que falharam e tiverem que voltar pra retoque.⁣ Real que bati MUITO a cabeça ouvindo conselhos de profissionais mais antigos que não me ajudaram em nada.⁣
 
-<img style="height: 300px; float:left; padding: 15px" src="/assets/img/genesis-4-B.jpg"> Copiar desenhos era algo que não me deixava feliz, e aos trancos e barrancos descobri que na verdade isso é mega antiético na nova escola da tatuagem.⁣ Deixei o Pinterest e comecei a colocar energia nas minhas criações. Fiz uma série de desenhos sobre Mulheres que correm com os lobos, bombou! Tatuei praticamente todos.⁣
+<img style="height: 300px; float:left; padding: 15px" src="{{ "assets/img/genesis-4-B.jpg" | relative_url }}"> Copiar desenhos era algo que não me deixava feliz, e aos trancos e barrancos descobri que na verdade isso é mega antiético na nova escola da tatuagem.⁣ Deixei o Pinterest e comecei a colocar energia nas minhas criações. Fiz uma série de desenhos sobre Mulheres que correm com os lobos, bombou! Tatuei praticamente todos.⁣
 
 ⁣
 Mas ainda assim me considerava uma tatuadora muito principiante, e eu já não me contentava com nada morno na minha vida. Por mais que minhas clientes gostassem das tattoos, EU não estava totalmente satisfeita.⁣
@@ -27,7 +27,7 @@ Mas ainda assim me considerava uma tatuadora muito principiante, e eu já não m
 ⁣
 Juntei todas as economias que tinha e que não tinha e me mandei pro Rio de Janeiro fazer um workshop profissionalizante com a [`@thaisvalentetattoo`][thais]⁣. Foi um importante passo, e aí eu descobri o quanto é válido fazer renúncias financeiras em detrimento do nosso aperfeiçoamento.⁣ Na real é um INVESTIMENTO.
 
-<img style="height: 460px; float:left; padding: 15px" src="/assets/img/genesis-4-A.jpg">⁣
+<img style="height: 460px; float:left; padding: 15px" src="{{ "assets/img/genesis-4-A.jpg" | relative_url }}">⁣
 Minhas tatuagens melhoraram muito. Fui convidada pra tatuar no Hostel Tattoo SP e expandi minhas artes pra lá e também pra Caxias do Sul.⁣ Pessoas de outras cidades começaram a viajar até mim para ter uma arte minha na pele.⁣
 ⁣
 

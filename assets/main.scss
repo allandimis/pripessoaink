@@ -12,6 +12,11 @@ $fa-font-path: "webfonts";
     padding:10px;
 }
 
+// .icon:hover{
+//     background-image:radial-gradient(circle at 50% 50%,rgba(255, 255, 255, 0.1),rgba(255, 255, 255, 0.041));
+//     border-radius: 200px;
+// }
+
 .fa-facebook:hover{
     color: #0084ff;
 }
@@ -31,12 +36,8 @@ $fa-font-path: "webfonts";
 .fa-shopping-basket:hover{
     color: yellow;
 }
+
 .icons {
     display: flex;
     justify-content: center;
-}
-
-.icon:hover{
-    background-image:radial-gradient(circle at 50% 50%,rgba(255, 255, 255, 0.1),rgba(255, 255, 255, 0.041));
-    border-radius: 200px;
 }

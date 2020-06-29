@@ -16,7 +16,7 @@ Pra quem não sabe Guest Tattoo é o termo que usamos pra dizer que você é con
 
 
 
-<img style="height: 560px; float:center; padding: 15px" src="/assets/img/genesis-5-A.jpg">
+<img style="height: 560px; float:center; padding: 15px" src="{{ "assets/img/genesis-5-A.jpg" | relative_url }}">
 
 Lembro do medo que senti de ser rejeitada, de meu portfólio não parecer suficiente. Meus fantasmas internos sempre vem me assombrar nessas horas onde saio da zona de conforto.⁣ Euforia. Recebi sim de alguns studios. Escolha. Optei pelo melhor!⁣
 
@@ -29,7 +29,7 @@ Tatuei em Lisboa, Porto e Ericeira em Portugal. Teve clientes que pegaram o trem
 ⁣
 Tatuei um bom tempo em Barcelona, na Espanha. Fiz clientes de várias partes do mundo. Meu espanhol ficou fluente. Fiz amigos pra toda vida.⁣
 
-<img style="height: 360px; float:left; padding: 15px" src="/assets/img/genesis-5-B.jpg">⁣
+<img style="height: 360px; float:left; padding: 15px" src="{{ "assets/img/genesis-5-B.jpg" | relative_url }}">⁣
 O resultado desses trabalhos nos levou pra tirar umas férias na Tailândia. Era possível mesmo que a tatuagem autoral tinha me levado pro outro lado do mundo???⁣
 ⁣
 
@@ -39,7 +39,7 @@ Na ilha de Koh Tao, tatuei uma portuguesa no quarto do hotel. Virou uma das minh
 Em Bali, Indonésia, consegui ser Guest em um Templo de tatuagens, o studio dos meus sonhos! Foi uma das experiências mais incríveis da minha vida e foi onde melhorei meu inglês e me tornei milionária (pra quem não sabe, transformar dólares em rúpias indonésias, vira milhões 🤣).⁣
 ⁣
 
-<img style="height: 400px; float:right; padding: 15px" src="/assets/img/genesis-5-C.jpg">⁣
+<img style="height: 400px; float:right; padding: 15px" src="{{ "assets/img/genesis-5-C.jpg" | relative_url }}">⁣
 Ainda vou ter que fazer uma série me aprofundando mais em cada viagem, porque foram muitas experiências que vivi e muitas portas abertas e amigos que deixei.⁣
 ⁣
 O foco aqui é mostrar que a arte autoral nos faz cruzar continentes, e que nenhum obstáculo parece tão grande quando você deixa a voz que grita dentro da ALMA sair!
